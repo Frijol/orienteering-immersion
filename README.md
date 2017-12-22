@@ -75,6 +75,8 @@ Another way to make a complex shape is to select the "draw paths" tool and click
 
 ![screen shot 2017-12-22 at 2 36 12 pm](https://user-images.githubusercontent.com/454690/34314134-96504510-e725-11e7-9d1c-771e3d1d8b67.png)
 
+Keep going to make a detailed self portrait!
+
 #### Getting really good at this
 My number one piece of advice is to click around and see what happens!
 
