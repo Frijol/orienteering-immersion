@@ -24,13 +24,13 @@ Leave the default scale of 1:10000, but **–important!–** change the Symbol S
 
 Tada! Now you have a brand new mapping canvas to work with.
 
-![screen shot 2017-12-22 at 11 47 17 am](https://user-images.githubusercontent.com/454690/34310729-f36dcb7c-e70d-11e7-8af0-6a1db6d426fd.png)
+![screen shot 2017-12-24 at 12 04 57 pm](https://user-images.githubusercontent.com/454690/34328916-b3a37118-e8a2-11e7-8b96-ef607ab21981.png)
 
 ### Load your face as a template [[This page in the manual]](http://www.openorienteering.org/mapper-manual/pages/templates.html):
 
 Go to Templates > "Open template..." and find your selfie.
 
-![screen shot 2017-12-22 at 11 59 28 am](https://user-images.githubusercontent.com/454690/34311039-b8092660-e70f-11e7-8611-d007772b9373.png)
+![screen shot 2017-12-24 at 12 05 06 pm](https://user-images.githubusercontent.com/454690/34328917-b3ce0a68-e8a2-11e7-967b-0b870b3fb6ce.png)
 
 Open Orienteering Mapper gives us some options to set up scale, but we're not too worried about it for this project. Let's just say 1 meter per pixel.
 
