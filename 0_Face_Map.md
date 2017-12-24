@@ -73,3 +73,10 @@ Keep going to make a detailed self portrait!
 ---
 
 *Bonus exercise: once you've poked around a bit, continue on to the [bonus tips](0.5_Face_Map_Bonus.html) to learn about some extra techniques and features!*
+
+---
+
+### Example results:
+
+![screen shot 2017-12-24 at 11 55 13 am](https://user-images.githubusercontent.com/454690/34328872-5e9e5012-e8a1-11e7-9ae5-f43ed04f2589.png)
+![screen shot 2017-12-24 at 11 55 35 am](https://user-images.githubusercontent.com/454690/34328873-5ebaa582-e8a1-11e7-9a7f-b11cef56abaf.png)
