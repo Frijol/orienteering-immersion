@@ -14,6 +14,8 @@ Get familiar with Open Orienteering Mapper by using the tool to draw a self-port
 And save it somewhere on your computer where you can find it again.
 ### Create a new map in Open Orienteering Mapper [[This page in the manual]](http://www.openorienteering.org/mapper-manual/pages/new_map.html):
 
+The application might be called "Mapper" or "Open Orienteering Mapper" on your computer.
+
 Click "Create a new map..." in the upper left under **Activities**.
 
 ![screen shot 2017-12-22 at 11 44 52 am](https://user-images.githubusercontent.com/454690/34310655-9a84f5ee-e70d-11e7-9129-9a9ce8e2e8da.png)
