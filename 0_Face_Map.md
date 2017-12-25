@@ -1,4 +1,4 @@
-# Pre-class exercise: Map Your Face
+# Map Your Face: Getting to Know Mapper CAD
 
 ## Objective
 Get familiar with Open Orienteering Mapper by using the tool to draw a self-portrait.
