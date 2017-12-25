@@ -5,3 +5,4 @@
   * [0.9 Hall of Fame](0.9_Hall_of_Fame.md)
 * [1. Mapping Trails with Runkeeper](1_Runkeeper_Trails.md)
   * [1.5 Adding Open Street Map Data](1.5_Runkeeper_OSM.md)
+* [3. Georeferencing Points](3_GPS_Points.md)
