@@ -8,7 +8,7 @@ Target software is Open Orienteering Mapper; other key tools include Runkeeper, 
 
 Go to the [Gitbook version of this page](https://frijol.gitbooks.io/orienteering-software-tutorials/content/) *(if you're not already there– the URL should start with frijol.gitbooks.io)*.
 
-Select a lesson from the left sidebar menu, or press the right arrow on your keyboard to begin with the first lesson.
+**Select a lesson from the left sidebar menu, or press the right arrow on your keyboard to begin with the first lesson.**
 
 *Tutorials are ideally completed in order, but it should still work to skip around and/or to do only the top-level content– e.g. [0. Map Your Face] and then immediately [1. Mapping Trails with Runkeeper] (skipping steps 0.5 and 0.9).*
 
