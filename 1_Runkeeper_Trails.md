@@ -31,6 +31,8 @@ Conclude your workout in Runkeeper, then use the share button to send the workou
 
 ![unnamed](https://user-images.githubusercontent.com/454690/34329289-899443e0-e8af-11e7-8b46-118180ddff7e.png)
 
+(Within "Share", make sure you're on the "Map" tab in order to see the share button.)
+
 This is the email the app sent to me through the "share" function:
 
 ![screen shot 2017-12-24 at 1 38 16 pm](https://user-images.githubusercontent.com/454690/34329324-aabf3f7e-e8b0-11e7-83da-813b1bae73f7.png)
