@@ -1,5 +1,4 @@
-# Orienteering Software Tutorials
-**Tutorials for modern cartography**
+# Tutorials for modern cartography
 
 [See as Gitbook](https://frijol.gitbooks.io/orienteering-software-tutorials/content/) | [See in Github](https://github.com/Frijol/orienteering-immersion)
 
