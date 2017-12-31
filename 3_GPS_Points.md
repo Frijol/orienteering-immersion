@@ -28,23 +28,23 @@ Download the app [GPS Essentials](https://play.google.com/store/apps/details?id=
 
 The app will immediately ask you if it can access location. Click "Allow".
 
-![screenshot_20171225-114024](https://user-images.githubusercontent.com/454690/34342614-6d1b5904-e96a-11e7-9bca-d13e3ffc0135.png)
+<img src="https://user-images.githubusercontent.com/454690/34342614-6d1b5904-e96a-11e7-9bca-d13e3ffc0135.png" width="250">
 
 From the home screen, tap "Dashboard".
 
-![screenshot_20171225-114045 1](https://user-images.githubusercontent.com/454690/34342702-dfcc8502-e96c-11e7-9ce3-a25856bd8ea3.png)
+<img src="https://user-images.githubusercontent.com/454690/34342702-dfcc8502-e96c-11e7-9ce3-a25856bd8ea3.png" width="250">
 
 Tap in the big blank space to add elements to the dashboard.
 
-![screenshot_20171225-114059 1](https://user-images.githubusercontent.com/454690/34342672-c3dd0552-e96b-11e7-8679-88516902d6ac.png)
+<img src="https://user-images.githubusercontent.com/454690/34342672-c3dd0552-e96b-11e7-8679-88516902d6ac.png" width="250">
 
 Add "Position".
 
-![screenshot_20171225-114200](https://user-images.githubusercontent.com/454690/34342676-ebfa06fc-e96b-11e7-89f3-b0e0abdd2fc6.png)
+<img src="https://user-images.githubusercontent.com/454690/34342676-ebfa06fc-e96b-11e7-89f3-b0e0abdd2fc6.png" width="250">
 
 Tap on an empty space and also add "Accuracy":
 
-![screenshot_20171225-114206](https://user-images.githubusercontent.com/454690/34342706-06f93d28-e96d-11e7-8677-c2943d92b0cd.png)
+<img src="https://user-images.githubusercontent.com/454690/34342706-06f93d28-e96d-11e7-8677-c2943d92b0cd.png" width="250">
 
 By default, these will show position English units and the minutes/seconds format of latitude and longitude.
 
@@ -52,28 +52,28 @@ In our work, we're using the Universal Trans-Mercator (UTM) coordinate system ([
 
 Open the menu and go to Settings:
 
-![screenshot_20171225-114324](https://user-images.githubusercontent.com/454690/34342713-4ed3db58-e96d-11e7-81cd-44923ae482dc.png)
+<img src="https://user-images.githubusercontent.com/454690/34342713-4ed3db58-e96d-11e7-81cd-44923ae482dc.png" width="250">
 
 In settings, select "Position Format".
 
-![screenshot_20171225-114239](https://user-images.githubusercontent.com/454690/34342612-6ae215ec-e96a-11e7-9634-ce36708eb379.png)
+<img src="https://user-images.githubusercontent.com/454690/34342612-6ae215ec-e96a-11e7-9634-ce36708eb379.png" width="250">
 
 In "Position Format", select "UTM".
 
-![screenshot_20171225-114249](https://user-images.githubusercontent.com/454690/34342677-f68b73f8-e96b-11e7-9054-8883400f1cca.png)
+<img src="https://user-images.githubusercontent.com/454690/34342677-f68b73f8-e96b-11e7-9054-8883400f1cca.png" width="250">
 
 Back in the Settings menu, select "Units".
 
-![screenshot_20171225-114239](https://user-images.githubusercontent.com/454690/34342612-6ae215ec-e96a-11e7-9634-ce36708eb379.png)
+<img src="https://user-images.githubusercontent.com/454690/34342612-6ae215ec-e96a-11e7-9634-ce36708eb379.png" width="250">
 
 Select Meters (standard for orienteering) so that you will see accuracy in meters.
 
-![screenshot_20171225-114300](https://user-images.githubusercontent.com/454690/34342615-6e893612-e96a-11e7-8324-5a5240a6c238.png)
+<img src="https://user-images.githubusercontent.com/454690/34342615-6e893612-e96a-11e7-8324-5a5240a6c238.png" width="250">
 
 Get back to the dashboard by selecting "Standard" from the menu on the left:
 
-![screenshot_20171225-114313 1](https://user-images.githubusercontent.com/454690/34342737-4f9b6a50-e96e-11e7-89e3-f4fe74bad4f4.png)
+<img src="https://user-images.githubusercontent.com/454690/34342737-4f9b6a50-e96e-11e7-89e3-f4fe74bad4f4.png" width="250">
 
 Here is our fully configured app, reporting out position coordinates in UTM and accuracy in meters:
 
-![screenshot_20171225-114339](https://user-images.githubusercontent.com/454690/34342613-6bc905ec-e96a-11e7-8fa4-6f99d9b42986.png)
+<img src="https://user-images.githubusercontent.com/454690/34342613-6bc905ec-e96a-11e7-8fa4-6f99d9b42986.png" width="250">
