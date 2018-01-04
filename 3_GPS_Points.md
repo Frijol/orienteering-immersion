@@ -36,7 +36,7 @@ From the home screen, tap "Dashboard".
 
 Tap in the big blank space to add elements to the dashboard.
 
-<img src="https://user-images.githubusercontent.com/454690/34342672-c3dd0552-e96b-11e7-8679-88516902d6ac.png" width="250">
+<img src="https://user-images.githubusercontent.com/454690/34342702-dfcc8502-e96c-11e7-9ce3-a25856bd8ea3.png" width="250">
 
 Add "Position".
 
@@ -77,3 +77,11 @@ Get back to the dashboard by selecting "Standard" from the menu on the left:
 Here is our fully configured app, reporting out position coordinates in UTM and accuracy in meters:
 
 <img src="https://user-images.githubusercontent.com/454690/34342613-6bc905ec-e96a-11e7-8fa4-6f99d9b42986.png" width="250">
+
+
+## Waypoints
+![0-1](https://user-images.githubusercontent.com/454690/34549670-4c241e6e-f0bf-11e7-82db-55ca54890857.png)
+![0-4](https://user-images.githubusercontent.com/454690/34549671-4c41f826-f0bf-11e7-9019-d873e58c25a4.png)
+![0-3](https://user-images.githubusercontent.com/454690/34549672-4c5b3890-f0bf-11e7-8c67-dce9dff27bc2.png)
+![0-2](https://user-images.githubusercontent.com/454690/34549673-4c7869a6-f0bf-11e7-9f6d-e78cdf2d4266.png)
+![0](https://user-images.githubusercontent.com/454690/34549674-4d158fa6-f0bf-11e7-8304-cbbdf96ae0de.png)
