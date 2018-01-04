@@ -12,15 +12,48 @@ Use a smartphone during fieldwork to find the positions of specific points (trai
 
 ## Instructions
 
-## Waypoints
-![0-1](https://user-images.githubusercontent.com/454690/34549670-4c241e6e-f0bf-11e7-82db-55ca54890857.png)
-![0-4](https://user-images.githubusercontent.com/454690/34549671-4c41f826-f0bf-11e7-9019-d873e58c25a4.png)
-![0-3](https://user-images.githubusercontent.com/454690/34549672-4c5b3890-f0bf-11e7-8c67-dce9dff27bc2.png)
-![0-2](https://user-images.githubusercontent.com/454690/34549673-4c7869a6-f0bf-11e7-9f6d-e78cdf2d4266.png)
-![0](https://user-images.githubusercontent.com/454690/34549674-4d158fa6-f0bf-11e7-8304-cbbdf96ae0de.png)
+### Collect Waypoints
+Let's get out into the field! With the GPS Essentials app downloaded, go someplace with features you want to map.
 
+From the home screen of the GPS Essentials app, go to Waypoints (the pushpin on the right):
 
-## Importing waypoints into open orienteering mapper
+<img src="https://user-images.githubusercontent.com/454690/34549674-4d158fa6-f0bf-11e7-8304-cbbdf96ae0de.png" width="250">
+
+Press the "+" button in the lower right to make a waypoint.
+
+<img src="https://user-images.githubusercontent.com/454690/34549670-4c241e6e-f0bf-11e7-82db-55ca54890857.png" width="250">
+
+Below is the waypoint creation screen.
+
+Notice the detail shown of "20 satellites visible..."– that number at the end is the potential for error, and you want it as low as possible (4.55m is good).
+
+You can pick a symbol, and optionally name the point (mine is a rootstock), then press Create.
+
+<img src="https://user-images.githubusercontent.com/454690/34549671-4c41f826-f0bf-11e7-9019-d873e58c25a4.png" width="250">
+
+The GPS Essentials app gives us a number of symbols we can use to record points.
+
+As a mapper, it's your choice which symbols to use/whether to name waypoints/etc. Just make sure you figure out a system where you'll remember what you were noting when you get back to the computer!
+
+Here are some of the available symbols:
+
+<img src="https://user-images.githubusercontent.com/454690/34549673-4c7869a6-f0bf-11e7-9f6d-e78cdf2d4266.png" width="250">
+
+You can use waypoints to get any kind of reference point, not just point features! Here I'm noting the position of a change in vegetation:
+
+<img src="https://user-images.githubusercontent.com/454690/34549672-4c5b3890-f0bf-11e7-8c67-dce9dff27bc2.png" width="250">
+
+Here is a list of waypoints I took while out mapping– notice that I've used different symbols and named some of the waypoints. This will make it easier for me to know what symbols to use for these points later.
+
+<img src="https://user-images.githubusercontent.com/454690/34549670-4c241e6e-f0bf-11e7-82db-55ca54890857.png" width="250">
+
+Once you've collected a few points, head back inside to put them on your map.
+
+## Export waypoints and send them to yourself
+
+! Need pics from app
+
+## Import waypoints into open orienteering mapper
 
 In Open Orienteering Mapper, go to File > Import, and find your exported waypoints.
 
@@ -46,7 +79,7 @@ Cool, a bunch of pink dots!
 
 I have my imported waypoints superimposed on a Runkeeper template of the trails, for reference.
 
-## Turning waypoints into map features
+## Turn waypoints into map features
 
 Because these waypoints were imported directly (rather than as a template), you can directly convert them into features on the map.
 
