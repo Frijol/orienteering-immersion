@@ -1,5 +1,7 @@
 metersPerPx = 156543.03392 * Math.cos(latLng.lat() * Math.PI / 180) / Math.pow(2, zoom)
 
+[Geolocator site](http://tools.freeside.sk/geolocator/geolocator.html)
+
 ![screen shot 2018-01-03 at 3 26 53 pm](https://user-images.githubusercontent.com/454690/34548990-29de3e5c-f0ba-11e7-8efe-a96f01b4f752.png)
 ![screen shot 2018-01-03 at 3 26 35 pm](https://user-images.githubusercontent.com/454690/34548991-29fa79dc-f0ba-11e7-80b0-08ba462392e6.png)
 ![screen shot 2018-01-03 at 1 38 05 pm](https://user-images.githubusercontent.com/454690/34548992-2a17e51c-f0ba-11e7-8cdf-902b64a53bf1.png)
