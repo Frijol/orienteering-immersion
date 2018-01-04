@@ -85,3 +85,12 @@ Here is our fully configured app, reporting out position coordinates in UTM and 
 ![0-3](https://user-images.githubusercontent.com/454690/34549672-4c5b3890-f0bf-11e7-8c67-dce9dff27bc2.png)
 ![0-2](https://user-images.githubusercontent.com/454690/34549673-4c7869a6-f0bf-11e7-9f6d-e78cdf2d4266.png)
 ![0](https://user-images.githubusercontent.com/454690/34549674-4d158fa6-f0bf-11e7-8304-cbbdf96ae0de.png)
+
+
+![screen shot 2018-01-03 at 7 54 42 pm](https://user-images.githubusercontent.com/454690/34550215-da92492e-f0c3-11e7-98c9-190d02e9d21d.png)
+![screen shot 2018-01-03 at 7 54 07 pm](https://user-images.githubusercontent.com/454690/34550216-daabcd40-f0c3-11e7-9186-505aa0e9a5ba.png)
+![screen shot 2018-01-03 at 7 54 27 pm](https://user-images.githubusercontent.com/454690/34550217-dac432d6-f0c3-11e7-9864-208726993895.png)
+![screen shot 2018-01-03 at 7 54 18 pm](https://user-images.githubusercontent.com/454690/34550218-dadd4118-f0c3-11e7-8e29-d2b6c1074e17.png)
+![screen shot 2018-01-03 at 7 54 49 pm](https://user-images.githubusercontent.com/454690/34550219-db197fa2-f0c3-11e7-97e7-a181f6ce9edb.png)
+![screen shot 2018-01-03 at 7 54 34 pm](https://user-images.githubusercontent.com/454690/34550220-db44e020-f0c3-11e7-99b2-c901eeb7c7d6.png)
+![screen shot 2018-01-03 at 7 57 23 pm](https://user-images.githubusercontent.com/454690/34550221-db8c8006-f0c3-11e7-84be-974ad4bd6c0b.png)
