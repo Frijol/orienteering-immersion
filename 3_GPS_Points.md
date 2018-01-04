@@ -94,3 +94,8 @@ Here is our fully configured app, reporting out position coordinates in UTM and 
 ![screen shot 2018-01-03 at 7 54 49 pm](https://user-images.githubusercontent.com/454690/34550219-db197fa2-f0c3-11e7-97e7-a181f6ce9edb.png)
 ![screen shot 2018-01-03 at 7 54 34 pm](https://user-images.githubusercontent.com/454690/34550220-db44e020-f0c3-11e7-99b2-c901eeb7c7d6.png)
 ![screen shot 2018-01-03 at 7 57 23 pm](https://user-images.githubusercontent.com/454690/34550221-db8c8006-f0c3-11e7-84be-974ad4bd6c0b.png)
+
+
+![screen shot 2018-01-03 at 8 24 33 pm](https://user-images.githubusercontent.com/454690/34550301-9396573a-f0c4-11e7-80ff-0d353543655c.png)
+![screen shot 2018-01-03 at 8 23 48 pm](https://user-images.githubusercontent.com/454690/34550302-93ac7678-f0c4-11e7-9b97-0ece8a1ce315.png)
+![screen shot 2018-01-03 at 8 28 06 pm](https://user-images.githubusercontent.com/454690/34550306-9f048e52-f0c4-11e7-8384-35099ffe9c05.png)
