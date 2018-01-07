@@ -1,8 +1,12 @@
-# Georeferencing Points with Smartphone GPS
+# Mapping Points with an App
 
 ## Objective
 
 Use a smartphone during fieldwork to find the positions of specific points (trail bends, intersections, rocks, man-made features, etc.) and map them in Open Orienteering Mapper.
+
+Example result:
+
+![](https://user-images.githubusercontent.com/454690/34645079-8ea5c24c-f2f9-11e7-8d9a-2d2092593c27.png)
 
 ## Materials
 

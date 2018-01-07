@@ -3,6 +3,10 @@
 ## Objective
 Get familiar with Open Orienteering Mapper by using the tool to draw a self-portrait.
 
+Example result:
+
+![](https://user-images.githubusercontent.com/454690/34328872-5e9e5012-e8a1-11e7-9ae5-f43ed04f2589.png)
+
 ## Materials
 * A computer
 * [Open Orienteering Mapper (0.7.0 Free Download)](http://www.openorienteering.org/apps/mapper/): [Mac Download](https://github.com/OpenOrienteering/mapper/releases/download/v0.7.0/OpenOrienteering-Mapper-0.7.0-macOS.dmg) | [Windows Download](https://download.opensuse.org/repositories/home:/dg0yt/Windows/OpenOrienteering-Mapper_0.7.0-Windows-x64.exe)
