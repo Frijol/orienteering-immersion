@@ -51,13 +51,29 @@ Once you've collected a few points, head back inside to put them on your map.
 
 ## Export waypoints and send them to yourself
 
-! Need pics from app
+On your phone, you should still be in the Waypoints section of GPS Essentials.
+
+Tap on the menu icon in the top right, then select Export.
+
+<img src="https://user-images.githubusercontent.com/454690/34645085-8f1f98c4-f2f9-11e7-8f96-6ac299098516.png" width="250">
+
+Swipe through the icons shown below SHARE until you find one you can use to send the file to yourself (I used an email app):
+
+<img src="https://user-images.githubusercontent.com/454690/34645083-8ef5b16c-f2f9-11e7-9785-311f1c612ac3.png" width="250">
+
+## Set up your Open Orienteering Mapper file
+
+On your computer, open Open Orienteering Mapper ("Mapper").
+
+Ideally, you would do this with a map you already have some information about– e.g. do the [Mapping Trails with Runkeeper](/1_Runkeeper_Trails.html) tutorial before this one, or [bring in a template from Open Street Map](1.1_Runkeeper_OSM.html) if you don't want to go back outside right now.
+
+Otherwise, you're mapping points into empty space, which can be confusing.
 
 ## Import waypoints into open orienteering mapper
 
-In Open Orienteering Mapper, go to File > Import, and find your exported waypoints.
+In Open Orienteering Mapper, go to File > Import, and find the waypoints you exported from your app (I emailed them to myself and then downloaded to my computer).
 
-If you're using the GPS Essentials Android app, it will probably be called something like "Waypoints.kml".
+If you're using the GPS Essentials Android app, the file will probably be called something like "Waypoints.kml".
 
 By default, your .kml file will be grayed out (not selectable). This is because in theory, a .kml is not an importable filetype.
 
@@ -106,3 +122,29 @@ Hey presto! The selected points are now green X tree symbols instead of pink dot
 Repeat as necessary...
 
 ![screen shot 2018-01-03 at 8 32 57 pm](https://user-images.githubusercontent.com/454690/34550395-6b03975a-f0c5-11e7-9745-a5db1a80df44.png)
+
+## How do I know which pink dots are what?
+
+If you took a lot of waypoints (like I did), you might not remember what they all are when you get back to the computer.
+
+But of course you took notes in the app while you were doing fieldwork!
+
+Put your phone next to your computer; you'll be looking back and forth between the two screens a lot.
+
+Tap on the map in Waypoints:
+
+<img src="https://user-images.githubusercontent.com/454690/34645080-8eb9fc3a-f2f9-11e7-8ead-86912e96097e.png" width="250">
+
+Turn your phone so its orientation matches up with the map of dots on your computer.
+
+You can pinch to zoom in and get a clearer picture of your symbols:
+
+<img src="https://user-images.githubusercontent.com/454690/34645081-8ecdb040-f2f9-11e7-81e6-dbbca04fcd36.png" width="250">
+
+You can tap on points in order to see their names. Tap on the name bubbles to close them again.
+
+<img src="https://user-images.githubusercontent.com/454690/34645084-8f09b5b8-f2f9-11e7-9416-46ff79de7a24.png" width="250">
+
+After ~half an hour of converting my GPS points into the symbols they represent, here is my map (still overlaid on a Runkeeper trace of the trails):
+
+![screen shot 2018-01-04 at 12 24 08 pm](https://user-images.githubusercontent.com/454690/34645079-8ea5c24c-f2f9-11e7-8d9a-2d2092593c27.png)
