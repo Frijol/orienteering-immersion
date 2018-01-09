@@ -10,7 +10,7 @@ Example result:
 
 ## Materials
 
-* An Android phone, or an iPhone and an app you personally know how to export waypoints from
+* An Android phone, or an iPhone and an app you personally know how to export waypoints from ([this ArcGIS tutorial was suggested to me](https://doc.arcgis.com/en/collector/ios/collect-data/collect-tutorial.htm))
 * A laptop
 * [Open Orienteering Mapper (0.7.0/Stable)](http://www.openorienteering.org/apps/mapper/): [Mac Download](https://github.com/OpenOrienteering/mapper/releases/download/v0.7.0/OpenOrienteering-Mapper-0.7.0-macOS.dmg) | [Windows Download](https://download.opensuse.org/repositories/home:/dg0yt/Windows/OpenOrienteering-Mapper_0.7.0-Windows-x64.exe)
 
