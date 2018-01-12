@@ -79,3 +79,6 @@ So if I can turn a .laz into one of those, I'm golden.
 I have a ton of files in my download from the Puget Sound LiDAR Consortium– I think each represents a relatively small geospatial area.
 
 Somehow I stumbled across a link for this thing called [LAStools](http://www.cs.unc.edu/~isenburg/lastools/), which looks like it will come in handy for file conversion.
+
+
+tutorials https://medium.com/@somegreg/orienteering-mapping-with-lidar-smartphones-and-free-tools-285a5ee058a
