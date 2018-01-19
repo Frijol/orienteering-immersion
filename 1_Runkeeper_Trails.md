@@ -4,6 +4,10 @@
 
 Create a georeferenced trail map in Open Orienteering Mapper using Runkeeper to collect path data.
 
+Example result:
+
+![screen shot 2018-01-06 at 4 54 08 pm](https://user-images.githubusercontent.com/454690/34645437-437dc63a-f302-11e7-9928-e58ad34c6da8.png)
+
 ## Materials
 
 ### Physical materials
