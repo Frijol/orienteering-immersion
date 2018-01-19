@@ -10,4 +10,4 @@
 * [3. Mapping Points with an App](3_GPS_Points.md)
   * [3.1 Point Feature Import Tips](3.1_GPS_Bonus.md)
   * [3.5 Manual GPS Use](3.5_Manual_GPS.md)
-* [4. Coming soon– Contours from LiDAR](3_LiDAR_Stub)
+* [4. Coming soon– Contours from LiDAR](3_LiDAR_Stub.md)
