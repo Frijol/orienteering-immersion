@@ -1,12 +1,16 @@
-# Georeferencing Points with Smartphone GPS
+# Mapping Points with an App
 
 ## Objective
 
 Use a smartphone during fieldwork to find the positions of specific points (trail bends, intersections, rocks, man-made features, etc.) and map them in Open Orienteering Mapper.
 
+Example result:
+
+![](https://user-images.githubusercontent.com/454690/34645079-8ea5c24c-f2f9-11e7-8d9a-2d2092593c27.png)
+
 ## Materials
 
-* An Android phone, or an iPhone and an app you personally know how to export waypoints from
+* An Android phone, or an iPhone and an app you personally know how to export waypoints from ([this ArcGIS tutorial was suggested to me](https://doc.arcgis.com/en/collector/ios/collect-data/collect-tutorial.htm))
 * A laptop
 * [Open Orienteering Mapper (0.7.0/Stable)](http://www.openorienteering.org/apps/mapper/): [Mac Download](https://github.com/OpenOrienteering/mapper/releases/download/v0.7.0/OpenOrienteering-Mapper-0.7.0-macOS.dmg) | [Windows Download](https://download.opensuse.org/repositories/home:/dg0yt/Windows/OpenOrienteering-Mapper_0.7.0-Windows-x64.exe)
 
