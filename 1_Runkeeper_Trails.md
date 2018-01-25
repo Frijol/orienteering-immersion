@@ -73,7 +73,7 @@ Here, we're going to tell Open Orienteering Mapper that we're using UTM coordina
 
 In the "Map" menu, select "Georeferencing..."
 
-![screen shot 2017-12-24 at 2 05 20 pm](https://user-images.githubusercontent.com/454690/34329407-c284c5c2-e8b3-11e7-8c03-d29f5fc98b5c.png)
+![34329407-c284c5c2-e8b3-11e7-8c03-d29f5fc98b5c](https://user-images.githubusercontent.com/454690/35416220-32c8c044-01dd-11e8-8ff7-a2ea0d0d141e.png)
 
 This opens a dialog. In "Coordinate reference system", select "UTM", then press OK.
 
