@@ -51,7 +51,7 @@ Scroll down to the bottom of this page and click "GPX" under the "Export" sectio
 
 This will download a .gpx file of the route you walked/ran.
 
-### Create a new map in Open Orienteering Mapper [[This page in the manual]](http://www.openorienteering.org/mapper-manual/pages/new_map.html):
+### Create a new map in Open Orienteering Mapper
 
 *If you already did the Face Mapping exercise, this will be very familiar.*
 
